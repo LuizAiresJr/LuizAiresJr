@@ -48,9 +48,9 @@
 ---
 
 ## Working
-
+<!--START_SECTION:waka-->
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=LuizAiresJr&theme=purple&display_format=time&layout=compact)
-
+<!--END_SECTION:waka-->
 ---
 
 ## Gist
