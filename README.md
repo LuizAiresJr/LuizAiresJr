@@ -49,7 +49,7 @@
 
 ## Working
 
-![Me on Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=LuizAiresJr&theme=purple&display_format=time&layout=compact)
+[![wakatime](https://wakatime.com/badge/user/93f4f44e-9f24-49e2-b8f3-a8bb40806aa9.svg)](https://wakatime.com/@93f4f44e-9f24-49e2-b8f3-a8bb40806aa9)
 
 ---
 
