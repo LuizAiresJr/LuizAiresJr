@@ -24,23 +24,34 @@
 ![GitHub](https://raw.githubusercontent.com/gabriersdev/github-profile/9dc8c0947fdc4a109fe63a4c380f5f52e8962ed5/files/github-badge.svg)
 ![SQL](https://raw.githubusercontent.com/gabriersdev/github-profile/9dc8c0947fdc4a109fe63a4c380f5f52e8962ed5/files/sql-badge.svg)
 
+---
+
 ## Contact me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-sergio-478810229)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizaires2730@gmail.com)
 
+---
+
 ## Stats
 
 ![luizAiresJr's Stats](https://github-readme-stats.vercel.app/api?username=luizAiresJr&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+
 ![Profile Visits](https://komarev.com/ghpvc/?username=LuizAiresJr&color=blueviolet)
+
+---
 
 ## Contribuitions
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LuizAiresJr&theme=midnight-purple&hide_border=true&border_radius=1.5)](https://git.io/streak-stats)
 
+---
+
 ## Working
 
 ![Me on Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=LuizAiresJr&theme=purple&display_format=time&layout=compact)
+
+---
 
 ## Gist
 
