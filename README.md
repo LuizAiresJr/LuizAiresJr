@@ -1,12 +1,18 @@
 ## Hello!!!
 
-I'm Luiz Sergio
-21 years old 
-Minas Gerais, Brazil
-Back-end Developer and Systems Analysis and Development student at PUC Minas.
-I love to learn new things and meet new people.
+🙋‍♂️I'm Luiz Sergio
+
+👉21 years old
+
+📍Minas Gerais, Brazil
+
+🖥️Back-end Developer and Systems Analysis and Development student at PUC Minas.
+
+🫶I love to learn new things and meet new people.
 
 > "Every new beginning comes from some other beginning's end."
+
+![GitHub followers](https://img.shields.io/github/followers/LuizAiresJr?style=social)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -23,11 +29,10 @@ I love to learn new things and meet new people.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-sergio-478810229)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizaires2730@gmail.com)
 
-## Stats 
+## Stats
 
 ![luizAiresJr's Stats](https://github-readme-stats.vercel.app/api?username=luizAiresJr&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 ![Profile Visits](https://komarev.com/ghpvc/?username=LuizAiresJr&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/LuizAiresJr?style=social)
 
 ## Contribuitions
 
