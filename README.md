@@ -49,7 +49,14 @@
 
 ## Working
 <!--START_SECTION:waka-->
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=LuizAiresJr&theme=purple&display_format=time&layout=compact)
+
+```txt
+JSON         12 mins         ██████████▓░░░░░░░░░░░░░░   43.18 %
+RMarkdown    8 mins          ███████▓░░░░░░░░░░░░░░░░░   30.58 %
+Other        5 mins          █████░░░░░░░░░░░░░░░░░░░░   19.65 %
+JavaScript   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+```
+
 <!--END_SECTION:waka-->
 ---
 
