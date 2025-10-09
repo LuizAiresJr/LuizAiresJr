@@ -51,9 +51,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP   1 hr 21 mins    ████████████████▓░░░░░░░░   66.39 %
-SQL   34 mins         ███████░░░░░░░░░░░░░░░░░░   27.75 %
-CSS   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
