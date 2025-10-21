@@ -51,8 +51,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#      1 hr 52 mins    █████████████████████████   99.83 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+C#                                 3 hrs 4 mins    █████████████████████████   99.83 %
+Other                              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Microsoft Visual Studio Solution   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
