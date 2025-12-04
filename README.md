@@ -51,11 +51,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#                                 40 mins         ███████████████████░░░░░░   75.62 %
-JavaScript                         4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
-XML                                4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
-Text                               3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
-Microsoft Visual Studio Solution   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+C#                                 28 mins         █████████████████▒░░░░░░░   68.73 %
+JavaScript                         4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
+XML                                4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+Text                               3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+Microsoft Visual Studio Solution   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
