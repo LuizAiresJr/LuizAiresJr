@@ -51,8 +51,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 44 mins          ███████████████████████▓░   95.09 %
-Markdown     5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+JavaScript   2 hrs 18 mins         ███████████████████░░░░░░   75.69 %
+C#           39 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.37 %
+Markdown     5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
