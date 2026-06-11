@@ -51,11 +51,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript                         54 mins               ██████████▒░░░░░░░░░░░░░░   41.35 %
-TypeScript                         47 mins               █████████░░░░░░░░░░░░░░░░   36.06 %
-TSConfig                           27 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
-JSON                               2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Microsoft Visual Studio Solution   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+JavaScript                         54 mins               ████████████████▒░░░░░░░░   65.94 %
+TypeScript                         27 mins               ████████▒░░░░░░░░░░░░░░░░   33.96 %
+Microsoft Visual Studio Solution   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
