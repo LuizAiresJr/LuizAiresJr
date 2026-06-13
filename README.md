@@ -51,9 +51,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript                         54 mins               ████████████████▒░░░░░░░░   65.94 %
-TypeScript                         27 mins               ████████▒░░░░░░░░░░░░░░░░   33.96 %
-Microsoft Visual Studio Solution   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+TypeScript                         9 mins                ████████████████████████▓   99.21 %
+Microsoft Visual Studio Solution   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
