@@ -51,8 +51,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                         9 mins                ████████████████████████▓   99.21 %
-Microsoft Visual Studio Solution   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+C#                                 33 mins               ███████████████████▒░░░░░   77.84 %
+TypeScript                         9 mins                █████▒░░░░░░░░░░░░░░░░░░░   21.98 %
+Microsoft Visual Studio Solution   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
